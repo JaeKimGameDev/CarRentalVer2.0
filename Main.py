@@ -307,7 +307,7 @@ def main():
     #createDataForCar()
     #identify_model()
     #print(IdentifyData.identify_color(1))
-    
+    IdentifyData.identify_car_type_id(cursor, 20)
     if mydb.is_connected():
         cursor.close()
         mydb.close()
