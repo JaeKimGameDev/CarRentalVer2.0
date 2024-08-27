@@ -1,7 +1,12 @@
+import random
+
+import IdentifyData
+
 import mysql.connector
 from mysql.connector import Error
 import os
 from dotenv import load_dotenv, dotenv_values
+import pandas as pd
 
 load_dotenv()
 MYSQLpassword = os.getenv("MYSQLpassword")
@@ -276,11 +281,33 @@ def createDataForCustomer():
 
     return
 
+def createDataForCar():
+    for k in range(5000):
+        CarVIN = []
+        CarVIN.append(str(random.randint(0, 9)))
+        for i in range(4):
+            CarVIN.append(chr(65 + random.randint(0, 25)))
+        for i in range(2):
+            CarVIN.append(str(random.randint(0, 9)))
+        for i in range(4):
+            CarVIN.append(chr(65 + random.randint(0, 25)))
+        for i in range(6):
+            CarVIN.append(str(random.randint(0, 9)))
+        CarVIN = ''.join(CarVIN)
+
+        insertCarData(CarVIN, 37, 9, 9001, 2024, 4, 6000, 5000, k, 1)
+
+    return
+
 def main():
     #createDataForCarType()
     #createDataForBranch()
     #createDataForEmployee()
     #createDataForCustomer()
+    #createDataForCar()
+    #identify_model()
+    #print(IdentifyData.identify_color(1))
+    
     if mydb.is_connected():
         cursor.close()
         mydb.close()
