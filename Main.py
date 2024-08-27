@@ -3,10 +3,8 @@ import random
 import IdentifyData
 
 import mysql.connector
-from mysql.connector import Error
 import os
-from dotenv import load_dotenv, dotenv_values
-import pandas as pd
+from dotenv import load_dotenv
 
 load_dotenv()
 MYSQLpassword = os.getenv("MYSQLpassword")
