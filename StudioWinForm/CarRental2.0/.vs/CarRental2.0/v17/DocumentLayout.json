@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|C:\\Users\\Jae\\Desktop\\CarRental2.0\\carrental2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|solutionrelative:carrental2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|c:\\users\\jae\\desktop\\carrental2.0\\carrental2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|solutionrelative:carrental2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|C:\\Users\\Jae\\Desktop\\CarRental2.0\\carrental2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|solutionrelative:carrental2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "CarRental2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Form1.cs [Design]",
+              "RelativeToolTip": "CarRental2.0\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:15:57.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Form1.cs",
+              "RelativeDocumentMoniker": "CarRental2.0\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Form1.cs",
+              "RelativeToolTip": "CarRental2.0\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwC8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:16:17.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Program.cs",
+              "RelativeDocumentMoniker": "CarRental2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Jae\\Desktop\\CarRental2.0\\CarRental2.0\\Program.cs",
+              "RelativeToolTip": "CarRental2.0\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:09:17.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
