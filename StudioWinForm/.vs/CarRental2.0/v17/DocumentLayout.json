@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jae\\Documents\\GitHub\\CarRentalVer2.0\\StudioWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|c:\\users\\jae\\documents\\github\\carrentalver2.0\\studiowinform\\carrental2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D398E5D-B5B3-4458-B3B8-04E9C33CC492}|CarRental2.0\\CarRental2.0.csproj|solutionrelative:carrental2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jae\\Documents\\GitHub\\CarRentalVer2.0\\StudioWinForm\\CarRental2.0\\Program.cs",
+              "RelativeDocumentMoniker": "CarRental2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Jae\\Documents\\GitHub\\CarRentalVer2.0\\StudioWinForm\\CarRental2.0\\Program.cs",
+              "RelativeToolTip": "CarRental2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:03:47.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

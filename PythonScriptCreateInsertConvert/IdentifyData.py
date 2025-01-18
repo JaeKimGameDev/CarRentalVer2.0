@@ -1,3 +1,6 @@
+
+
+
 def identify_car_class(cursor, car_class_id):
     car_type_tuple = ("Economy", "Full", "Luxury", "Sport", "Muscle", "Super", "Industrial")
     print(car_type_tuple[car_class_id])
